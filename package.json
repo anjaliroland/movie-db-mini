@@ -1,0 +1,24 @@
+{
+  "name": "movie-db-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjaliroland/movie-db-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjaliroland/movie-db-mini/issues"
+  },
+  "homepage": "https://github.com/anjaliroland/movie-db-mini#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.4"
+  }
+}
